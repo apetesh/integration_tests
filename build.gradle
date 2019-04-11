@@ -1,6 +1,6 @@
 buildscript {
 	repositories {
-		maven { url "https://repo.spring.io/plugins-release" }
+		maven { url "https://repo.spring.io/plugins-release123123" }
 	}
 	dependencies {
 		classpath("io.spring.gradle:propdeps-plugin:0.0.8")
